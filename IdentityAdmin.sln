@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAdmin.Web", "IdentityAdmin.Web\IdentityAdmin.Web.csproj", "{D111BF77-6287-4E95-9BB0-DE8316DB8D75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAdmin.Core", "IdentityAdmin.Core\IdentityAdmin.Core.csproj", "{441ED029-E084-43F1-B8AA-E70C7CECF2ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityAdmin.Infrastructure", "IdentityAdmin.Infrastructure\IdentityAdmin.Infrastructure.csproj", "{709937DC-47BB-413E-8B80-21663F111AE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D111BF77-6287-4E95-9BB0-DE8316DB8D75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D111BF77-6287-4E95-9BB0-DE8316DB8D75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D111BF77-6287-4E95-9BB0-DE8316DB8D75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D111BF77-6287-4E95-9BB0-DE8316DB8D75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441ED029-E084-43F1-B8AA-E70C7CECF2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441ED029-E084-43F1-B8AA-E70C7CECF2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441ED029-E084-43F1-B8AA-E70C7CECF2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441ED029-E084-43F1-B8AA-E70C7CECF2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{709937DC-47BB-413E-8B80-21663F111AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{709937DC-47BB-413E-8B80-21663F111AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{709937DC-47BB-413E-8B80-21663F111AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{709937DC-47BB-413E-8B80-21663F111AE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

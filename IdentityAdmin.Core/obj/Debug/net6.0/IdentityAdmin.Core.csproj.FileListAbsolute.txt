@@ -1,0 +1,12 @@
+/Users/logananderson/Projects/Personal/IdentityAdmin/src/IdentityAdmin/IdentityAdmin.Core/bin/Debug/net6.0/IdentityAdmin.Core.deps.json
+/Users/logananderson/Projects/Personal/IdentityAdmin/src/IdentityAdmin/IdentityAdmin.Core/bin/Debug/net6.0/IdentityAdmin.Core.dll
+/Users/logananderson/Projects/Personal/IdentityAdmin/src/IdentityAdmin/IdentityAdmin.Core/bin/Debug/net6.0/IdentityAdmin.Core.pdb
+/Users/logananderson/Projects/Personal/IdentityAdmin/src/IdentityAdmin/IdentityAdmin.Core/obj/Debug/net6.0/IdentityAdmin.Core.csproj.AssemblyReference.cache
+/Users/logananderson/Projects/Personal/IdentityAdmin/src/IdentityAdmin/IdentityAdmin.Core/obj/Debug/net6.0/IdentityAdmin.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/logananderson/Projects/Personal/IdentityAdmin/src/IdentityAdmin/IdentityAdmin.Core/obj/Debug/net6.0/IdentityAdmin.Core.AssemblyInfoInputs.cache
+/Users/logananderson/Projects/Personal/IdentityAdmin/src/IdentityAdmin/IdentityAdmin.Core/obj/Debug/net6.0/IdentityAdmin.Core.AssemblyInfo.cs
+/Users/logananderson/Projects/Personal/IdentityAdmin/src/IdentityAdmin/IdentityAdmin.Core/obj/Debug/net6.0/IdentityAdmin.Core.csproj.CoreCompileInputs.cache
+/Users/logananderson/Projects/Personal/IdentityAdmin/src/IdentityAdmin/IdentityAdmin.Core/obj/Debug/net6.0/IdentityAdmin.Core.dll
+/Users/logananderson/Projects/Personal/IdentityAdmin/src/IdentityAdmin/IdentityAdmin.Core/obj/Debug/net6.0/refint/IdentityAdmin.Core.dll
+/Users/logananderson/Projects/Personal/IdentityAdmin/src/IdentityAdmin/IdentityAdmin.Core/obj/Debug/net6.0/IdentityAdmin.Core.pdb
+/Users/logananderson/Projects/Personal/IdentityAdmin/src/IdentityAdmin/IdentityAdmin.Core/obj/Debug/net6.0/ref/IdentityAdmin.Core.dll
